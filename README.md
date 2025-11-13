@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/Palks_Studio.png" alt="Palks Studio" width="1200">
+  <img src="docs/images/Palks_Studio.png?refresh=1" alt="Palks Studio" width="1200">
 </p>
 
 ![Made for VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue.svg)
