@@ -33,7 +33,7 @@ Chaque élément suit la charte visuelle et la philosophie du studio : **simplic
 
 ---
 
-### Contenu du pack
+## Contenu du pack
 
 **Modèles de documentation**
 - `README_Flask_Chatbot_FR/EN.md` → modèle complet pour application Flask  
@@ -55,7 +55,7 @@ Chaque élément suit la charte visuelle et la philosophie du studio : **simplic
 
 ---
 
-### Pourquoi ce framework est unique
+## Pourquoi ce framework est unique
 
 - Réunit **structure, lisibilité et professionnalisme**  
 - Fournit une **base bilingue prête à l’emploi (FR / EN)**  
@@ -65,7 +65,7 @@ Chaque élément suit la charte visuelle et la philosophie du studio : **simplic
 
 ---
 
-### Disponible sur
+## Disponible sur
 
 - [Gumroad](https://palks.gumroad.com)  
 - [Itch.io](https://palks-studio.itch.io)  
@@ -73,7 +73,7 @@ Chaque élément suit la charte visuelle et la philosophie du studio : **simplic
 
 ---
 
-### Licence
+## Licence
 
 Usage personnel et professionnel autorisé.
 Revente, redistribution ou publication publique interdite sans autorisation écrite de **Palks Studio**.
@@ -89,7 +89,7 @@ Each document follows the studio’s philosophy: **simplicity, clarity, efficien
 
 ---
 
-### Pack Contents
+## Pack Contents
 
 **Documentation Templates**
 - `README_Flask_Chatbot_EN/FR.md` → full template for Flask projects  
@@ -111,7 +111,7 @@ Each document follows the studio’s philosophy: **simplicity, clarity, efficien
 
 ---
 
-### Why This Framework Stands Out
+## Why This Framework Stands Out
 
 - Combines **clarity, professionalism, and structure**  
 - Offers a **ready-to-use bilingual base (EN / FR)**  
@@ -119,10 +119,7 @@ Each document follows the studio’s philosophy: **simplicity, clarity, efficien
 - Perfect for developers, studios, and freelancers  
 - No external dependencies required
 
----
-
-### Available on
-
+**Available on**
 - [Gumroad](https://palks.gumroad.com)  
 - [Itch.io](https://palks-studio.itch.io)  
 - [Ko-fi](https://ko-fi.com/palksstudio)
