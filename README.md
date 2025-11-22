@@ -2,14 +2,19 @@
   <img src="docs/images/Palks_Studio.png?refresh=1" alt="Palks Studio" width="1200">
 </p>
 
-![Made for VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.x-yellow.svg)
-![Platform](https://img.shields.io/badge/OS-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
 ![License](https://img.shields.io/badge/License-LICENCE.txt-lightgreen.svg)
 
 <p align="center">
   <a href="https://palks.gumroad.com/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20on-Gumroad-orange?style=for-the-badge" alt="Download on Gumroad">
+  </a>
+  &nbsp;&nbsp;
+  <a href="http://palks-studio.itch.io" target="_blank">
+    <img src="https://img.shields.io/badge/Available%20on-Itch.io-blue?style=for-the-badge" alt="Available on Itch.io">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ko-fi.com/palksstudio" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20on-Ko%E2%80%93fi-ff5f5f?style=for-the-badge" alt="Buy on Ko-fi">
   </a>
 </p>
 
@@ -139,4 +144,4 @@ Simplicity, clarity, efficiency.
 - Discord: https://discord.gg/kzrSyThyZ7  
 - Twitter (X): https://x.com/PalksStudio  
 - Itch.io: http://palks-studio.itch.io  
-- Ko-Fi: https://ko-fi.com/palksstudio
+- Ko-fi: https://ko-fi.com/palksstudio
