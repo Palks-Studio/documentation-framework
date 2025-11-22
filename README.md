@@ -4,20 +4,6 @@
 
 ![License](https://img.shields.io/badge/License-LICENCE.txt-lightgreen.svg)
 
-<p align="center">
-  <a href="https://palks.gumroad.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20on-Gumroad-orange?style=for-the-badge" alt="Download on Gumroad">
-  </a>
-  &nbsp;&nbsp;
-  <a href="http://palks-studio.itch.io" target="_blank">
-    <img src="https://img.shields.io/badge/Available%20on-Itch.io-blue?style=for-the-badge" alt="Available on Itch.io">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ko-fi.com/palksstudio" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20on-Ko%E2%80%93fi-ff5f5f?style=for-the-badge" alt="Buy on Ko-fi">
-  </a>
-</p>
-
 # Palks Studio – Documentation Framework (FR / EN)
 
 _A complete professional documentation pack designed for developers and creators._
@@ -30,6 +16,11 @@ _Structure, clarity, and protection for your projects — ready to use._
 ### Présentation
 Le **Documentation Framework** de **Palks Studio** est un ensemble complet de modèles, fichiers et guides conçus pour créer, structurer et protéger la documentation de tes projets professionnels.
 Chaque élément suit la charte visuelle et la philosophie du studio : **simplicité, clarté, efficacité**.
+
+⚠️ **Important — Dépôt de présentation uniquement**
+Ce dépôt GitHub ne contient qu’un aperçu partiel et non fonctionnel du pack.  
+Aucun code complet, script, template complet ou fichier sensible n’est inclus.  
+La version commerciale contient l’intégralité des fichiers, scripts, modèles et guides.
 
 ---
 
@@ -63,13 +54,24 @@ Chaque élément suit la charte visuelle et la philosophie du studio : **simplic
 - Idéal pour développeurs, studios et freelances exigeants  
 - Clé en main : aucun outil externe requis
 
----
-
-## Disponible sur
-
+**Disponible sur**
 - [Gumroad](https://palks.gumroad.com)  
 - [Itch.io](https://palks-studio.itch.io)  
 - [Ko-fi](https://ko-fi.com/palksstudio)
+
+<p align="center">
+  <a href="https://palks.gumroad.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Télécharger%20sur-Gumroad-orange?style=for-the-badge" alt="Télécharger sur Gumroad">
+  </a>
+  &nbsp;&nbsp;
+  <a href="http://palks-studio.itch.io" target="_blank">
+    <img src="https://img.shields.io/badge/Disponible%20sur-Itch.io-blue?style=for-the-badge" alt="Disponible sur Itch.io">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ko-fi.com/palksstudio" target="_blank">
+    <img src="https://img.shields.io/badge/Acheter%20sur-Ko%E2%80%93fi-ff5f5f?style=for-the-badge" alt="Acheter sur Ko-fi">
+  </a>
+</p>
 
 ---
 
@@ -86,6 +88,11 @@ Revente, redistribution ou publication publique interdite sans autorisation écr
 ### Overview
 The **Palks Studio Documentation Framework** is a complete collection of templates, guides, and license files to help you structure, present, and protect your projects like a professional.
 Each document follows the studio’s philosophy: **simplicity, clarity, efficiency.**
+
+⚠️ **Important — Presentation-only repository**
+This GitHub repository contains only a partial, non-functional preview of the pack.  
+No full code, scripts, complete templates or sensitive files are included.  
+The commercial version contains the full project, scripts, templates and detailed documentation.
 
 ---
 
@@ -123,6 +130,20 @@ Each document follows the studio’s philosophy: **simplicity, clarity, efficien
 - [Gumroad](https://palks.gumroad.com)  
 - [Itch.io](https://palks-studio.itch.io)  
 - [Ko-fi](https://ko-fi.com/palksstudio)
+
+<p align="center">
+  <a href="https://palks.gumroad.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20on-Gumroad-orange?style=for-the-badge" alt="Download on Gumroad">
+  </a>
+  &nbsp;&nbsp;
+  <a href="http://palks-studio.itch.io" target="_blank">
+    <img src="https://img.shields.io/badge/Available%20on-Itch.io-blue?style=for-the-badge" alt="Available on Itch.io">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ko-fi.com/palksstudio" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20on-Ko%E2%80%93fi-ff5f5f?style=for-the-badge" alt="Buy on Ko-fi">
+  </a>
+</p>
 
 ---
 
