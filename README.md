@@ -28,22 +28,22 @@ La version commerciale contient l’intégralité des fichiers, scripts, modèle
 ## Contenu du pack
 
 **Modèles de documentation**
-- `README_Flask_Chatbot_FR/EN.md` → modèle complet pour application Flask  
-- `README_Python_Script_FR/EN.md` → modèle pour script Python autonome  
-- `README_Minimal_FR/EN.md` → modèle léger pour petits projets
+- `README_Flask_Chatbot_FR/EN.md` : modèle complet pour application Flask  
+- `README_Python_Script_FR/EN.md` : modèle pour script Python autonome  
+- `README_Minimal_FR/EN.md` : modèle léger pour petits projets
 
 **Fichiers structurels et licences**
-- `PACK_OVERVIEW.md` → présentation du pack complet  
-- `LICENCE_FR.md / LICENSE_EN.md` → licence propriétaire officielle  
-- `FEEDBACK_FR/EN.md` → modèle de page “retours et suggestions”  
-- `Contact_FR/EN.md` → informations de contact officielles  
-- `Arborescence_Projet_Type.md` → exemple d’arborescence normalisée
+- `PACK_OVERVIEW.md` : présentation du pack complet  
+- `LICENCE_FR.md / LICENSE_EN.md` : licence propriétaire officielle  
+- `FEEDBACK_FR/EN.md` : modèle de page “retours et suggestions”  
+- `Contact_FR/EN.md` : informations de contact officielles  
+- `Arborescence_Projet_Type.md` : exemple d’arborescence normalisée
 
 **Guides professionnels**
-- `GOOD_DOC_PRACTICES_FR/EN.md` → bonnes pratiques de rédaction  
-- `README_MISTAKES_TO_AVOID_FR/EN.md` → erreurs courantes à éviter  
-- `PROTECT_YOUR_WORK_GUIDE_FR/EN.md` → protéger et encadrer ses créations  
-- `PRESENT_YOUR_PROJECT_PRO_FR/EN.md` → présenter un projet comme un professionnel
+- `GOOD_DOC_PRACTICES_FR/EN.md` : bonnes pratiques de rédaction  
+- `README_MISTAKES_TO_AVOID_FR/EN.md` : erreurs courantes à éviter  
+- `PROTECT_YOUR_WORK_GUIDE_FR/EN.md` : protéger et encadrer ses créations  
+- `PRESENT_YOUR_PROJECT_PRO_FR/EN.md` : présenter un projet comme un professionnel
 
 ---
 
@@ -101,22 +101,22 @@ The commercial version contains the full project, scripts, templates and detaile
 ## Pack Contents
 
 **Documentation Templates**
-- `README_Flask_Chatbot_EN/FR.md` → full template for Flask projects  
-- `README_Python_Script_EN/FR.md` → standalone Python script template  
-- `README_Minimal_EN/FR.md` → lightweight README model
+- `README_Flask_Chatbot_EN/FR.md`: full template for Flask projects  
+- `README_Python_Script_EN/FR.md`: standalone Python script template  
+- `README_Minimal_EN/FR.md`: lightweight README model
 
 **Structure Files & Licenses**
-- `PACK_OVERVIEW.md` → full pack overview and structure  
-- `LICENSE_EN.md / LICENCE_FR.md` → proprietary Palks Studio license  
-- `FEEDBACK_EN/FR.md` → feedback and suggestions page  
-- `Contact_EN/FR.md` → official contact information  
-- `Project_Structure_Template.md` → standardized project example
+- `PACK_OVERVIEW.md`: full pack overview and structure  
+- `LICENSE_EN.md / LICENCE_FR.md`: proprietary Palks Studio license  
+- `FEEDBACK_EN/FR.md`: feedback and suggestions page  
+- `Contact_EN/FR.md`: official contact information  
+- `Project_Structure_Template.md`: standardized project example
 
 **Professional Guides**
-- `GOOD_DOC_PRACTICES_EN/FR.md` → best documentation practices  
-- `README_MISTAKES_TO_AVOID_EN/FR.md` → common mistakes to avoid  
-- `PROTECT_YOUR_WORK_GUIDE_EN/FR.md` → protecting and licensing your work  
-- `PRESENT_YOUR_PROJECT_PRO_EN/FR.md` → presenting your project professionally
+- `GOOD_DOC_PRACTICES_EN/FR.md`: best documentation practices  
+- `README_MISTAKES_TO_AVOID_EN/FR.md`: common mistakes to avoid  
+- `PROTECT_YOUR_WORK_GUIDE_EN/FR.md`: protecting and licensing your work  
+- `PRESENT_YOUR_PROJECT_PRO_EN/FR.md`: presenting your project professionally
 
 ---
 
