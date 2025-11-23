@@ -14,6 +14,7 @@ _Structure, clarity, and protection for your projects — ready to use._
 ## 🇫🇷 Version française
 
 ### Présentation
+
 Le **Documentation Framework** de **Palks Studio** est un ensemble complet de modèles, fichiers et guides conçus pour créer, structurer et protéger la documentation de tes projets professionnels.
 Chaque élément suit la charte visuelle et la philosophie du studio : **simplicité, clarté, efficacité**.
 
@@ -57,7 +58,7 @@ La version commerciale contient l’intégralité des fichiers, scripts, modèle
 **Disponible sur**
 - [Gumroad](https://palks.gumroad.com)  
 - [Itch.io](https://palks-studio.itch.io)  
-- [Ko-fi](https://ko-fi.com/palksstudio)
+- [Ko-fi](https://ko-fi.com/palksstudio)  
 
 <p align="center">
   <a href="https://palks.gumroad.com/" target="_blank">
@@ -86,6 +87,7 @@ Revente, redistribution ou publication publique interdite sans autorisation écr
 ## 🇬🇧 English Version
 
 ### Overview
+
 The **Palks Studio Documentation Framework** is a complete collection of templates, guides, and license files to help you structure, present, and protect your projects like a professional.
 Each document follows the studio’s philosophy: **simplicity, clarity, efficiency.**
 
@@ -129,7 +131,7 @@ The commercial version contains the full project, scripts, templates and detaile
 **Available on**
 - [Gumroad](https://palks.gumroad.com)  
 - [Itch.io](https://palks-studio.itch.io)  
-- [Ko-fi](https://ko-fi.com/palksstudio)
+- [Ko-fi](https://ko-fi.com/palksstudio)  
 
 <p align="center">
   <a href="https://palks.gumroad.com/" target="_blank">
