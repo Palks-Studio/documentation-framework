@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/Palks_Studio.png?refresh=1" alt="Palks Studio" width="1200">
+  <img src="docs/images/Palks_Studio.png?refresh=1" alt="Palks Studio" width="600">
 </p>
 
 ![License](https://img.shields.io/badge/License-LICENCE.txt-lightgreen.svg)
@@ -156,8 +156,7 @@ Resale, redistribution or public modification without permission is prohibited.
 Personal and professional use is allowed.
 
 **Palks Studio**
-Creator of useful and self-contained tools: scripts, templates and ready-to-use bases.
-Simplicity, clarity, efficiency.
+Independent creator of useful, autonomous digital tools.
 
 - GitHub: https://github.com/Palks-Studio  
 - Gumroad: https://palks.gumroad.com  
