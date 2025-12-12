@@ -18,7 +18,7 @@ _Structure, clarity, and protection for your projects — ready to use._
 Le **Documentation Framework** de **Palks Studio** est un ensemble complet de modèles, fichiers et guides conçus pour créer, structurer et protéger la documentation de tes projets professionnels.
 Chaque élément suit la charte visuelle et la philosophie du studio : **simplicité, clarté, efficacité**.
 
-⚠️ **Important — Dépôt de présentation uniquement**
+⚠️ **Important — Dépôt de présentation uniquement**  
 Ce dépôt GitHub ne contient qu’un aperçu partiel et non fonctionnel du pack.  
 Aucun code complet, script, template complet ou fichier sensible n’est inclus.  
 La version commerciale contient l’intégralité des fichiers, scripts, modèles et guides.
@@ -27,19 +27,19 @@ La version commerciale contient l’intégralité des fichiers, scripts, modèle
 
 ## Contenu du pack
 
-**Modèles de documentation**
+**Modèles de documentation**  
 - `README_Flask_Chatbot_FR/EN.md` : modèle complet pour application Flask  
 - `README_Python_Script_FR/EN.md` : modèle pour script Python autonome  
 - `README_Minimal_FR/EN.md` : modèle léger pour petits projets
 
-**Fichiers structurels et licences**
+**Fichiers structurels et licences**  
 - `PACK_OVERVIEW.md` : présentation du pack complet  
 - `LICENCE_FR.md / LICENSE_EN.md` : licence propriétaire officielle  
 - `FEEDBACK_FR/EN.md` : modèle de page “retours et suggestions”  
 - `Contact_FR/EN.md` : informations de contact officielles  
 - `Arborescence_Projet_Type.md` : exemple d’arborescence normalisée
 
-**Guides professionnels**
+**Guides professionnels**  
 - `GOOD_DOC_PRACTICES_FR/EN.md` : bonnes pratiques de rédaction  
 - `README_MISTAKES_TO_AVOID_FR/EN.md` : erreurs courantes à éviter  
 - `PROTECT_YOUR_WORK_GUIDE_FR/EN.md` : protéger et encadrer ses créations  
@@ -55,7 +55,7 @@ La version commerciale contient l’intégralité des fichiers, scripts, modèle
 - Idéal pour développeurs, studios et freelances exigeants  
 - Clé en main : aucun outil externe requis
 
-**Disponible sur**
+**Disponible sur**  
 - [Gumroad](https://palks.gumroad.com)  
 - [Itch.io](https://palks-studio.itch.io)  
 - [Ko-fi](https://ko-fi.com/palksstudio)  
@@ -100,19 +100,19 @@ The commercial version contains the full project, scripts, templates and detaile
 
 ## Pack Contents
 
-**Documentation Templates**
+**Documentation Templates**  
 - `README_Flask_Chatbot_EN/FR.md`: full template for Flask projects  
 - `README_Python_Script_EN/FR.md`: standalone Python script template  
 - `README_Minimal_EN/FR.md`: lightweight README model
 
-**Structure Files & Licenses**
+**Structure Files & Licenses**  
 - `PACK_OVERVIEW.md`: full pack overview and structure  
 - `LICENSE_EN.md / LICENCE_FR.md`: proprietary Palks Studio license  
 - `FEEDBACK_EN/FR.md`: feedback and suggestions page  
 - `Contact_EN/FR.md`: official contact information  
 - `Project_Structure_Template.md`: standardized project example
 
-**Professional Guides**
+**Professional Guides**  
 - `GOOD_DOC_PRACTICES_EN/FR.md`: best documentation practices  
 - `README_MISTAKES_TO_AVOID_EN/FR.md`: common mistakes to avoid  
 - `PROTECT_YOUR_WORK_GUIDE_EN/FR.md`: protecting and licensing your work  
@@ -128,7 +128,7 @@ The commercial version contains the full project, scripts, templates and detaile
 - Perfect for developers, studios, and freelancers  
 - No external dependencies required
 
-**Available on**
+**Available on**  
 - [Gumroad](https://palks.gumroad.com)  
 - [Itch.io](https://palks-studio.itch.io)  
 - [Ko-fi](https://ko-fi.com/palksstudio)  
