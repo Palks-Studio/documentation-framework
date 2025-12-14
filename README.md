@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="docs/images/Palks_Studio.png?refresh=1" alt="Palks Studio" width="600">
+  <img src="docs/images/Palks_Studio.png?refresh=1" alt="Palks Studio" width="1200">
 </p>
 
-![License](https://img.shields.io/badge/License-LICENSE.txt-lightgreen.svg)
+![License](https://img.shields.io/badge/License-LICENCE.txt-lightgreen.svg)
 
 # Palks Studio – Documentation Framework (FR / EN)
 
-_A complete professional documentation pack designed for developers and creators._
+_A complete professional documentation pack designed for developers and creators._  
 _Structure, clarity, and protection for your projects — ready to use._
 
 ---
@@ -15,7 +15,7 @@ _Structure, clarity, and protection for your projects — ready to use._
 
 ### Présentation
 
-Le **Documentation Framework** de **Palks Studio** est un ensemble complet de modèles, fichiers et guides conçus pour créer, structurer et protéger la documentation de tes projets professionnels.
+Le **Documentation Framework** de **Palks Studio** est un ensemble complet de modèles, fichiers et guides conçus pour créer, structurer et protéger la documentation de tes projets professionnels.  
 Chaque élément suit la charte visuelle et la philosophie du studio : **simplicité, clarté, efficacité**.
 
 ⚠️ **Important — Dépôt de présentation uniquement**  
@@ -58,7 +58,7 @@ La version commerciale contient l’intégralité des fichiers, scripts, modèle
 **Disponible sur**  
 - [Gumroad](https://palks.gumroad.com)  
 - [Itch.io](https://palks-studio.itch.io)  
-- [Ko-fi](https://ko-fi.com/palksstudio)  
+- [Ko-fi](https://ko-fi.com/palksstudio)
 
 <p align="center">
   <a href="https://palks.gumroad.com/" target="_blank">
@@ -76,22 +76,14 @@ La version commerciale contient l’intégralité des fichiers, scripts, modèle
 
 ---
 
-## Licence
-
-Usage personnel et professionnel autorisé.
-Revente, redistribution ou publication publique interdite sans autorisation écrite de **Palks Studio**.
-© 2025 — **Palks Studio**
-
----
-
 ## 🇬🇧 English Version
 
 ### Overview
 
-The **Palks Studio Documentation Framework** is a complete collection of templates, guides, and license files to help you structure, present, and protect your projects like a professional.
+The **Palks Studio Documentation Framework** is a complete collection of templates, guides, and license files to help you structure,   present, and protect your projects like a professional.  
 Each document follows the studio’s philosophy: **simplicity, clarity, efficiency.**
 
-⚠️ **Important — Presentation-only repository**
+⚠️ **Important — Presentation-only repository**  
 This GitHub repository contains only a partial, non-functional preview of the pack.  
 No full code, scripts, complete templates or sensitive files are included.  
 The commercial version contains the full project, scripts, templates and detailed documentation.
@@ -112,7 +104,7 @@ The commercial version contains the full project, scripts, templates and detaile
 - `Contact_EN/FR.md`: official contact information  
 - `Project_Structure_Template.md`: standardized project example
 
-**Professional Guides**  
+**Professional Guides**
 - `GOOD_DOC_PRACTICES_EN/FR.md`: best documentation practices  
 - `README_MISTAKES_TO_AVOID_EN/FR.md`: common mistakes to avoid  
 - `PROTECT_YOUR_WORK_GUIDE_EN/FR.md`: protecting and licensing your work  
@@ -131,7 +123,7 @@ The commercial version contains the full project, scripts, templates and detaile
 **Available on**  
 - [Gumroad](https://palks.gumroad.com)  
 - [Itch.io](https://palks-studio.itch.io)  
-- [Ko-fi](https://ko-fi.com/palksstudio)  
+- [Ko-fi](https://ko-fi.com/palksstudio)
 
 <p align="center">
   <a href="https://palks.gumroad.com/" target="_blank">
@@ -149,17 +141,4 @@ The commercial version contains the full project, scripts, templates and detaile
 
 ---
 
-## Credits & License
-
-This pack is an original creation by **Palks Studio**.
-Resale, redistribution or public modification without permission is prohibited.
-Personal and professional use is allowed.
-
-**Palks Studio**
-Independent creator of useful, autonomous digital tools.
-
-- GitHub: https://github.com/Palks-Studio  
-- Gumroad: https://palks.gumroad.com  
-- Itch.io: http://palks-studio.itch.io  
-- Ko-fi: https://ko-fi.com/palksstudio  
-- Twitter (X): https://x.com/Palks_Studio
+© Palks Studio — see LICENSE_EN.md
