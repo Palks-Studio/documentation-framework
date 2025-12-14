@@ -1,5 +1,5 @@
 ```
-PalksStudio_DocumentationPack_Premium/
+PalksStudio_Documentation_Pack_Premium/
 ├── PACK_OVERVIEW.md                     → Présentation générale et sommaire du pack complet (FR)
 │                                        → General presentation and summary of the complete pack (EN)
 │
@@ -12,16 +12,11 @@ PalksStudio_DocumentationPack_Premium/
 ├── README_Minimal_FR.md                 → Documentation minimale pour petits projets (FR)
 ├── README_Minimal_EN.md                 → Minimal documentation for small projects (EN)
 │
-├── FEEDBACK_FR.md                       → Page “Retours et suggestions” (FR)
-├── FEEDBACK_EN.md                       → “Feedback and Suggestions” page (EN)
-│
 ├── LICENCE_FR.md                        → Licence propriétaire Palks Studio (FR)
 ├── LICENSE_EN.md                        → Proprietary license (EN)
 │
 ├── BONUS/                               → Fichiers complémentaires et modèles annexes (FR)
 │    │                                   → Additional files and reference templates (EN)
-│    ├── Contact_FR.md                   → Informations de contact officielles (FR)
-│    ├── Contact_EN.md                   → Official contact information (EN)
 │    ├── Arborescence_Projet_Type.md     → Exemple d’arborescence de projet (FR)
 │    └── Project_Structure_Template.md   → Standard project structure template (EN)
 │
