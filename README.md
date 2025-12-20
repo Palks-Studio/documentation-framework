@@ -141,4 +141,5 @@ The commercial version contains the full project, scripts, templates and detaile
 
 ---
 
-© Palks Studio — see LICENSE_EN.md
+© Palks Studio — see LICENSE_EN.md  
+- https://palks-studio.com
