@@ -2,7 +2,7 @@
   <img src="docs/images/Palks_Studio.png?refresh=1" alt="Palks Studio" width="1200">
 </p>
 
-![License](https://img.shields.io/badge/License-LICENCE.txt-lightgreen.svg)
+![License](https://img.shields.io/badge/License-LICENSE_EN.md-lightgreen.svg)
 
 # Palks Studio – Documentation Framework (FR / EN)
 
