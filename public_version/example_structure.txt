@@ -12,8 +12,8 @@ PalksStudio_Documentation_Pack_Premium/
 ├── README_Minimal_FR.md                 → Documentation minimale pour petits projets (FR)
 ├── README_Minimal_EN.md                 → Minimal documentation for small projects (EN)
 │
-├── LICENCE_FR.md                        → Licence propriétaire Palks Studio (FR)
-├── LICENSE_EN.md                        → Proprietary license (EN)
+├── LICENCE.md                           → Conditions d’utilisation et cadre légal (FR)
+├── LICENSE.md                           → Terms of use and legal framework (EN)
 │
 ├── BONUS/                               → Fichiers complémentaires et modèles annexes (FR)
 │    │                                   → Additional files and reference templates (EN)
