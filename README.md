@@ -2,7 +2,7 @@
   <img src="docs/images/Palks_Studio.png?refresh=1" alt="Palks Studio" width="1200">
 </p>
 
-![License](https://img.shields.io/badge/License-LICENSE_EN.md-lightgreen.svg)
+![License](https://img.shields.io/badge/License-LICENSE.md-lightgreen.svg)
 
 # Palks Studio – Documentation Framework (FR / EN)
 
@@ -34,9 +34,7 @@ La version commerciale contient l’intégralité des fichiers, scripts, modèle
 
 **Fichiers structurels et licences**  
 - `PACK_OVERVIEW.md` : présentation du pack complet  
-- `LICENCE_FR.md / LICENSE_EN.md` : licence propriétaire officielle  
-- `FEEDBACK_FR/EN.md` : modèle de page “retours et suggestions”  
-- `Contact_FR/EN.md` : informations de contact officielles  
+- `LICENCE.md / LICENSE.md` : licence propriétaire officielle  
 - `Arborescence_Projet_Type.md` : exemple d’arborescence normalisée
 
 **Guides professionnels**  
@@ -99,9 +97,7 @@ The commercial version contains the full project, scripts, templates and detaile
 
 **Structure Files & Licenses**  
 - `PACK_OVERVIEW.md`: full pack overview and structure  
-- `LICENSE_EN.md / LICENCE_FR.md`: proprietary Palks Studio license  
-- `FEEDBACK_EN/FR.md`: feedback and suggestions page  
-- `Contact_EN/FR.md`: official contact information  
+- `LICENSE.md / LICENCE.md`: proprietary Palks Studio license  
 - `Project_Structure_Template.md`: standardized project example
 
 **Professional Guides**
@@ -141,5 +137,5 @@ The commercial version contains the full project, scripts, templates and detaile
 
 ---
 
-© Palks Studio — see LICENSE_EN.md  
+© Palks Studio — see LICENSE.md  
 - https://palks-studio.com
