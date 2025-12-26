@@ -1,5 +1,5 @@
 ```
-PalksStudio_Documentation_Pack_Premium/
+palksstudio_documentation_pack_premium/
 ├── PACK_OVERVIEW.md                     → Présentation générale et sommaire du pack complet (FR)
 │                                        → General presentation and summary of the complete pack (EN)
 │
