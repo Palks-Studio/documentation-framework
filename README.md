@@ -15,7 +15,7 @@ _Structure, clarity, and protection for your projects — ready to use._
 
 ### Présentation
 
-Le **Documentation Framework** de **Palks Studio** est un ensemble complet de modèles, fichiers et guides conçus pour créer, structurer et protéger la documentation de tes projets professionnels.  
+Le **Documentation Framework** de **Palks Studio** est un ensemble complet de modèles, fichiers et guides conçus pour créer,  structurer et protéger la documentation de tes projets professionnels.  
 Chaque élément suit la charte visuelle et la philosophie du studio : **simplicité, clarté, efficacité**.
 
 ⚠️ **Important — Dépôt de présentation uniquement**  
@@ -78,7 +78,7 @@ La version commerciale contient l’intégralité des fichiers, scripts, modèle
 
 ### Overview
 
-The **Palks Studio Documentation Framework** is a complete collection of templates, guides, and license files to help you structure,   present, and protect your projects like a professional.  
+The **Palks Studio Documentation Framework** is a complete collection of templates, guides, and license files to help you structure,  present, and protect your projects like a professional.  
 Each document follows the studio’s philosophy: **simplicity, clarity, efficiency.**
 
 ⚠️ **Important — Presentation-only repository**  
