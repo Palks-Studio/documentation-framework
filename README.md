@@ -45,6 +45,48 @@ La version commerciale contient l’intégralité des fichiers, scripts, modèle
 
 ---
 
+## Structure du projet
+
+```
+palks_studio_documentation_pack_premium/
+├── PACK_OVERVIEW.md                     → Présentation générale et sommaire du pack complet (FR)
+│                                        → General presentation and summary of the complete pack (EN)
+│
+├── README_Flask_Chatbot_FR.md           → Documentation complète du template Flask Chatbot (FR)
+├── README_Flask_Chatbot_EN.md           → Full documentation for the Flask Chatbot template (EN)
+│
+├── README_Python_Script_FR.md           → Modèle complet pour scripts Python autonomes (FR)
+├── README_Python_Script_EN.md           → Complete template for standalone Python scripts (EN)
+│
+├── README_Minimal_FR.md                 → Documentation minimale pour petits projets (FR)
+├── README_Minimal_EN.md                 → Minimal documentation for small projects (EN)
+│
+├── LICENCE.md                           → Conditions d’utilisation et cadre légal (FR)
+├── LICENSE.md                           → Terms of use and legal framework (EN)
+│
+├── BONUS/                               → Fichiers complémentaires et modèles annexes (FR)
+│    │                                   → Additional files and reference templates (EN)
+│    ├── Arborescence_Projet_Type.md     → Exemple d’arborescence de projet (FR)
+│    └── Project_Structure_Template.md   → Standard project structure template (EN)
+│
+└── GUIDES/                              → Guides professionnels bilingues (FR)
+     │                                   → Bilingual professional guides (EN)
+     ├── GOOD_DOC_PRACTICES_FR.md        → Bonnes pratiques pour rédiger une documentation claire et durable (FR)
+     ├── GOOD_DOC_PRACTICES_EN.md        → Best practices for writing clear and sustainable documentation (EN)
+     │
+     ├── README_MISTAKES_TO_AVOID_FR.md  → Erreurs courantes à éviter dans un README (FR)
+     ├── README_MISTAKES_TO_AVOID_EN.md  → Common README mistakes to avoid (EN)
+     │
+     ├── PROTECT_YOUR_WORK_GUIDE_FR.md   → Conseils pour protéger ses créations et licences (FR)
+     ├── PROTECT_YOUR_WORK_GUIDE_EN.md   → How to protect your creations and licenses (EN)
+     │
+     ├── PRESENT_YOUR_PROJECT_PRO_FR.md  → Présenter un projet comme un produit professionnel (FR)
+     └── PRESENT_YOUR_PROJECT_PRO_EN.md  → Present your project like a professional product (EN)
+```
+
+
+---
+
 ## Pourquoi ce framework est unique
 
 - Réunit **structure, lisibilité et professionnalisme**  
@@ -52,25 +94,6 @@ La version commerciale contient l’intégralité des fichiers, scripts, modèle
 - Compatible avec GitHub, Gumroad, Itch.io, Ko-fi  
 - Idéal pour développeurs, studios et freelances exigeants  
 - Clé en main : aucun outil externe requis
-
-**Disponible sur**  
-- [Gumroad](https://palks.gumroad.com)  
-- [Itch.io](https://palks-studio.itch.io)  
-- [Ko-fi](https://ko-fi.com/palksstudio)
-
-<p align="center">
-  <a href="https://palks.gumroad.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Télécharger%20sur-Gumroad-orange?style=for-the-badge" alt="Télécharger sur Gumroad">
-  </a>
-  &nbsp;&nbsp;
-  <a href="http://palks-studio.itch.io" target="_blank">
-    <img src="https://img.shields.io/badge/Disponible%20sur-Itch.io-blue?style=for-the-badge" alt="Disponible sur Itch.io">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ko-fi.com/palksstudio" target="_blank">
-    <img src="https://img.shields.io/badge/Acheter%20sur-Ko%E2%80%93fi-ff5f5f?style=for-the-badge" alt="Acheter sur Ko-fi">
-  </a>
-</p>
 
 ---
 
@@ -108,6 +131,48 @@ The commercial version contains the full project, scripts, templates and detaile
 
 ---
 
+## Project structure
+
+```
+palks_studio_documentation_pack_premium/
+├── PACK_OVERVIEW.md                     → Présentation générale et sommaire du pack complet (FR)
+│                                        → General presentation and summary of the complete pack (EN)
+│
+├── README_Flask_Chatbot_FR.md           → Documentation complète du template Flask Chatbot (FR)
+├── README_Flask_Chatbot_EN.md           → Full documentation for the Flask Chatbot template (EN)
+│
+├── README_Python_Script_FR.md           → Modèle complet pour scripts Python autonomes (FR)
+├── README_Python_Script_EN.md           → Complete template for standalone Python scripts (EN)
+│
+├── README_Minimal_FR.md                 → Documentation minimale pour petits projets (FR)
+├── README_Minimal_EN.md                 → Minimal documentation for small projects (EN)
+│
+├── LICENCE.md                           → Conditions d’utilisation et cadre légal (FR)
+├── LICENSE.md                           → Terms of use and legal framework (EN)
+│
+├── BONUS/                               → Fichiers complémentaires et modèles annexes (FR)
+│    │                                   → Additional files and reference templates (EN)
+│    ├── Arborescence_Projet_Type.md     → Exemple d’arborescence de projet (FR)
+│    └── Project_Structure_Template.md   → Standard project structure template (EN)
+│
+└── GUIDES/                              → Guides professionnels bilingues (FR)
+     │                                   → Bilingual professional guides (EN)
+     ├── GOOD_DOC_PRACTICES_FR.md        → Bonnes pratiques pour rédiger une documentation claire et durable (FR)
+     ├── GOOD_DOC_PRACTICES_EN.md        → Best practices for writing clear and sustainable documentation (EN)
+     │
+     ├── README_MISTAKES_TO_AVOID_FR.md  → Erreurs courantes à éviter dans un README (FR)
+     ├── README_MISTAKES_TO_AVOID_EN.md  → Common README mistakes to avoid (EN)
+     │
+     ├── PROTECT_YOUR_WORK_GUIDE_FR.md   → Conseils pour protéger ses créations et licences (FR)
+     ├── PROTECT_YOUR_WORK_GUIDE_EN.md   → How to protect your creations and licenses (EN)
+     │
+     ├── PRESENT_YOUR_PROJECT_PRO_FR.md  → Présenter un projet comme un produit professionnel (FR)
+     └── PRESENT_YOUR_PROJECT_PRO_EN.md  → Present your project like a professional product (EN)
+```
+
+
+---
+
 ## Why This Framework Stands Out
 
 - Combines **clarity, professionalism, and structure**  
@@ -115,25 +180,6 @@ The commercial version contains the full project, scripts, templates and detaile
 - Compatible with GitHub, Gumroad, Itch.io, and Ko-fi  
 - Perfect for developers, studios, and freelancers  
 - No external dependencies required
-
-**Available on**  
-- [Gumroad](https://palks.gumroad.com)  
-- [Itch.io](https://palks-studio.itch.io)  
-- [Ko-fi](https://ko-fi.com/palksstudio)
-
-<p align="center">
-  <a href="https://palks.gumroad.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20on-Gumroad-orange?style=for-the-badge" alt="Download on Gumroad">
-  </a>
-  &nbsp;&nbsp;
-  <a href="http://palks-studio.itch.io" target="_blank">
-    <img src="https://img.shields.io/badge/Available%20on-Itch.io-blue?style=for-the-badge" alt="Available on Itch.io">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ko-fi.com/palksstudio" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20on-Ko%E2%80%93fi-ff5f5f?style=for-the-badge" alt="Buy on Ko-fi">
-  </a>
-</p>
 
 ---
 
