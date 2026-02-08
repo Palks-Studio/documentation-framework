@@ -6,6 +6,7 @@
 
 ![License](https://img.shields.io/badge/License-LICENSE.md-lightgreen.svg)
 ![Documentation](https://img.shields.io/badge/Type-Documentation%20Framework-0095b1?style=flat)
+![Bilingual](https://img.shields.io/badge/Lang-FR%20%2F%20EN-0a5645?style=flat)
 ![Templates](https://img.shields.io/badge/Includes-Templates-151b1c?style=flat)
 
 <p align="center">
