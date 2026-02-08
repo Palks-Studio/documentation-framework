@@ -17,8 +17,6 @@
 > Ce dépôt constitue une présentation technique et une documentation du projet.  
 > Il ne contient pas de code source téléchargeable ni de fichiers de production.
 
-# Palks Studio – Documentation Framework (FR / EN)
-
 _A complete professional documentation pack designed for developers and creators._  
 _Structure, clarity, and protection for your projects — ready to use._
 
