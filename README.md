@@ -1,8 +1,21 @@
 <p align="center">
-  <img src="docs/images/Palks_Studio.png?refresh=1" alt="Palks Studio" width="1200">
+  <img src="docs/images/framework_doc.png"
+       alt="Documentation framework structure — project documentation folder hierarchy overview"
+       width="1200">
 </p>
 
 ![License](https://img.shields.io/badge/License-LICENSE.md-lightgreen.svg)
+
+<p align="center">
+  <a href="https://palks-studio.com">
+    <img src="https://img.shields.io/badge/Palks%20Studio-Website-0095b1?style=for-the-badge" />
+  </a>
+</p>
+
+# Palks Studio – Documentation Framework (FR / EN)
+
+> Ce dépôt constitue une présentation technique et une documentation du projet.  
+> Il ne contient pas de code source téléchargeable ni de fichiers de production.
 
 # Palks Studio – Documentation Framework (FR / EN)
 
@@ -17,11 +30,6 @@ _Structure, clarity, and protection for your projects — ready to use._
 
 Le **Documentation Framework** de **Palks Studio** est un ensemble complet de modèles, fichiers et guides conçus pour créer,  structurer et protéger la documentation de tes projets professionnels.  
 Chaque élément suit la charte visuelle et la philosophie du studio : **simplicité, clarté, efficacité**.
-
-⚠️ **Important — Dépôt de présentation uniquement**  
-Ce dépôt GitHub ne contient qu’un aperçu partiel et non fonctionnel du pack.  
-Aucun code complet, script, template complet ou fichier sensible n’est inclus.  
-La version commerciale contient l’intégralité des fichiers, scripts, modèles et guides.
 
 ---
 
@@ -48,40 +56,22 @@ La version commerciale contient l’intégralité des fichiers, scripts, modèle
 ## Structure du projet
 
 ```
-palks_studio_documentation_pack_premium/
-├── PACK_OVERVIEW.md                     → Présentation générale et sommaire du pack complet (FR)
-│                                        → General presentation and summary of the complete pack (EN)
+palks_studio_documentation_pack_fr/
+├── PACK_OVERVIEW.md                     → Présentation générale et sommaire du pack complet
+├── README_Flask_Chatbot_FR.md           → Documentation complète du template Flask Chatbot
+├── README_Python_Script_FR.md           → Modèle complet pour scripts Python autonomes
+├── README_Minimal_FR.md                 → Documentation minimale pour petits projets
 │
-├── README_Flask_Chatbot_FR.md           → Documentation complète du template Flask Chatbot (FR)
-├── README_Flask_Chatbot_EN.md           → Full documentation for the Flask Chatbot template (EN)
+├── LICENCE.md                           → Conditions d’utilisation et cadre légal
 │
-├── README_Python_Script_FR.md           → Modèle complet pour scripts Python autonomes (FR)
-├── README_Python_Script_EN.md           → Complete template for standalone Python scripts (EN)
+├── BONUS/                               → Fichiers complémentaires et modèles annexes
+│    └──  Arborescence_Projet_Type.md     → Exemple d’arborescence de projet
 │
-├── README_Minimal_FR.md                 → Documentation minimale pour petits projets (FR)
-├── README_Minimal_EN.md                 → Minimal documentation for small projects (EN)
-│
-├── LICENCE.md                           → Conditions d’utilisation et cadre légal (FR)
-├── LICENSE.md                           → Terms of use and legal framework (EN)
-│
-├── BONUS/                               → Fichiers complémentaires et modèles annexes (FR)
-│    │                                   → Additional files and reference templates (EN)
-│    ├── Arborescence_Projet_Type.md     → Exemple d’arborescence de projet (FR)
-│    └── Project_Structure_Template.md   → Standard project structure template (EN)
-│
-└── GUIDES/                              → Guides professionnels bilingues (FR)
-     │                                   → Bilingual professional guides (EN)
-     ├── GOOD_DOC_PRACTICES_FR.md        → Bonnes pratiques pour rédiger une documentation claire et durable (FR)
-     ├── GOOD_DOC_PRACTICES_EN.md        → Best practices for writing clear and sustainable documentation (EN)
-     │
-     ├── README_MISTAKES_TO_AVOID_FR.md  → Erreurs courantes à éviter dans un README (FR)
-     ├── README_MISTAKES_TO_AVOID_EN.md  → Common README mistakes to avoid (EN)
-     │
-     ├── PROTECT_YOUR_WORK_GUIDE_FR.md   → Conseils pour protéger ses créations et licences (FR)
-     ├── PROTECT_YOUR_WORK_GUIDE_EN.md   → How to protect your creations and licenses (EN)
-     │
-     ├── PRESENT_YOUR_PROJECT_PRO_FR.md  → Présenter un projet comme un produit professionnel (FR)
-     └── PRESENT_YOUR_PROJECT_PRO_EN.md  → Present your project like a professional product (EN)
+└── GUIDES/                              → Guides professionnels
+     ├── GOOD_DOC_PRACTICES_FR.md        → Bonnes pratiques pour rédiger une documentation claire et durable
+     ├── README_MISTAKES_TO_AVOID_FR.md  → Erreurs courantes à éviter dans un README
+     ├── PROTECT_YOUR_WORK_GUIDE_FR.md   → Conseils pour protéger ses créations et licences
+     └── PRESENT_YOUR_PROJECT_PRO_FR.md  → Présenter un projet comme un produit professionnel
 ```
 
 
@@ -99,15 +89,13 @@ palks_studio_documentation_pack_premium/
 
 ## 🇬🇧 English Version
 
+> This repository is a technical presentation and documentation repository.  
+> It does not contain downloadable source code or production files.
+
 ### Overview
 
 The **Palks Studio Documentation Framework** is a complete collection of templates, guides, and license files to help you structure,  present, and protect your projects like a professional.  
 Each document follows the studio’s philosophy: **simplicity, clarity, efficiency.**
-
-⚠️ **Important — Presentation-only repository**  
-This GitHub repository contains only a partial, non-functional preview of the pack.  
-No full code, scripts, complete templates or sensitive files are included.  
-The commercial version contains the full project, scripts, templates and detailed documentation.
 
 ---
 
@@ -134,40 +122,22 @@ The commercial version contains the full project, scripts, templates and detaile
 ## Project structure
 
 ```
-palks_studio_documentation_pack_premium/
-├── PACK_OVERVIEW.md                     → Présentation générale et sommaire du pack complet (FR)
-│                                        → General presentation and summary of the complete pack (EN)
+palks_studio_documentation_pack_en/
+├── PACK_OVERVIEW.md                     → General presentation and summary of the complete pack
+├── README_Flask_Chatbot_EN.md           → Full documentation for the Flask Chatbot template
+├── README_Python_Script_EN.md           → Complete template for standalone Python scripts
+├── README_Minimal_EN.md                 → Minimal documentation for small projects
 │
-├── README_Flask_Chatbot_FR.md           → Documentation complète du template Flask Chatbot (FR)
-├── README_Flask_Chatbot_EN.md           → Full documentation for the Flask Chatbot template (EN)
+├── LICENSE.md                           → Terms of use and legal framework
 │
-├── README_Python_Script_FR.md           → Modèle complet pour scripts Python autonomes (FR)
-├── README_Python_Script_EN.md           → Complete template for standalone Python scripts (EN)
+├── BONUS/                               → Additional files and reference templates
+│    └── Project_Structure_Template.md   → Standard project structure template
 │
-├── README_Minimal_FR.md                 → Documentation minimale pour petits projets (FR)
-├── README_Minimal_EN.md                 → Minimal documentation for small projects (EN)
-│
-├── LICENCE.md                           → Conditions d’utilisation et cadre légal (FR)
-├── LICENSE.md                           → Terms of use and legal framework (EN)
-│
-├── BONUS/                               → Fichiers complémentaires et modèles annexes (FR)
-│    │                                   → Additional files and reference templates (EN)
-│    ├── Arborescence_Projet_Type.md     → Exemple d’arborescence de projet (FR)
-│    └── Project_Structure_Template.md   → Standard project structure template (EN)
-│
-└── GUIDES/                              → Guides professionnels bilingues (FR)
-     │                                   → Bilingual professional guides (EN)
-     ├── GOOD_DOC_PRACTICES_FR.md        → Bonnes pratiques pour rédiger une documentation claire et durable (FR)
-     ├── GOOD_DOC_PRACTICES_EN.md        → Best practices for writing clear and sustainable documentation (EN)
-     │
-     ├── README_MISTAKES_TO_AVOID_FR.md  → Erreurs courantes à éviter dans un README (FR)
-     ├── README_MISTAKES_TO_AVOID_EN.md  → Common README mistakes to avoid (EN)
-     │
-     ├── PROTECT_YOUR_WORK_GUIDE_FR.md   → Conseils pour protéger ses créations et licences (FR)
-     ├── PROTECT_YOUR_WORK_GUIDE_EN.md   → How to protect your creations and licenses (EN)
-     │
-     ├── PRESENT_YOUR_PROJECT_PRO_FR.md  → Présenter un projet comme un produit professionnel (FR)
-     └── PRESENT_YOUR_PROJECT_PRO_EN.md  → Present your project like a professional product (EN)
+└── GUIDES/                              → Professional guides
+     ├── GOOD_DOC_PRACTICES_EN.md        → Best practices for writing clear and sustainable documentation
+     ├── README_MISTAKES_TO_AVOID_EN.md  → Common README mistakes to avoid
+     ├── PROTECT_YOUR_WORK_GUIDE_EN.md   → How to protect your creations and licenses
+     └── PRESENT_YOUR_PROJECT_PRO_EN.md  → Present your project like a professional product 
 ```
 
 
