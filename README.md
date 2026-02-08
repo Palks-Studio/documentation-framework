@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/framework_doc.png"
+  <img src="docs/images/doc_frameworkc.png"
        alt="Documentation framework structure — project documentation folder hierarchy overview"
        width="1200">
 </p>
