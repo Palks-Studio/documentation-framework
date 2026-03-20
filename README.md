@@ -32,6 +32,8 @@ _Structure, clarity, and protection for your projects — ready to use._
 Le **Documentation Framework** de **Palks Studio** est un ensemble complet de modèles, fichiers et guides conçus pour créer,  structurer et protéger la documentation de tes projets professionnels.  
 Chaque élément suit la charte visuelle et la philosophie du studio : **simplicité, clarté, efficacité**.
 
+[![Documentation Framework](https://img.shields.io/badge/Documentation%20Framework-0095b1?style=flat)](https://palks-studio.com/fr/framework-documentation)
+
 ---
 
 ## Contenu du pack
@@ -91,6 +93,8 @@ palks_studio_documentation_pack_fr/
 
 > This repository is a technical presentation and documentation repository.  
 > It does not contain downloadable source code or production files.
+>
+> [![Documentation Framework](https://img.shields.io/badge/Documentation%20Framework-0095b1?style=flat)](https://palks-studio.com/en/documentation-framework])
 
 ### Overview
 
