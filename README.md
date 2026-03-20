@@ -93,8 +93,8 @@ palks_studio_documentation_pack_fr/
 
 > This repository is a technical presentation and documentation repository.  
 > It does not contain downloadable source code or production files.
->
-> [![Documentation Framework](https://img.shields.io/badge/Documentation%20Framework-0095b1?style=flat)](https://palks-studio.com/en/documentation-framework])
+
+[![Documentation Framework](https://img.shields.io/badge/Documentation%20Framework-0095b1?style=flat)](https://palks-studio.com/en/documentation-framework)
 
 ### Overview
 
