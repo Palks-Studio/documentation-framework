@@ -101,7 +101,7 @@ palks_studio_documentation_pack_fr/
 The **Palks Studio Documentation Framework** is a complete collection of templates, guides, and license files to help you structure,  present, and protect your projects like a professional.  
 Each document follows the studio’s philosophy: **simplicity, clarity, efficiency.**
 
-[View resource](https://palks-studio.com/en/documentation-framework)
+[View the Resource](https://palks-studio.com/en/documentation-framework)
 
 ---
 
