@@ -7,6 +7,8 @@
 ![License](https://img.shields.io/badge/License-LICENSE.md-lightgreen.svg)
 ![Bilingual](https://img.shields.io/badge/Lang-FR%20%2F%20EN-0a5645?style=flat)
 ![Templates](https://img.shields.io/badge/Includes-Templates-151b1c?style=flat)
+[![YouTube](https://img.shields.io/badge/YouTube-@Palks__Studio-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Palks_Studio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@Palks__Studio-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palks-studio/)
 [![Documentation Framework](https://img.shields.io/badge/Documentation%20Framework-0095b1?style=flat)](https://palks-studio.com/fr/framework-documentation)
 
 <p align="center">
